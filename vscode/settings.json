@@ -1,6 +1,6 @@
 {
     "[markdown]": {
-        "files.trimTrailingWhitespace": true
+        "files.trimTrailingWhitespace": false
     },
     "editor.fontFamily": "Fira Code",
     "editor.fontLigatures": true,
