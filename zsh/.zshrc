@@ -25,7 +25,7 @@ source $ZSHPLUGINS/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 # zsh themes
 source $ZSHTHEMES/powerlevel9k/powerlevel9k.zsh-theme
-POWERLEVEL9K_MODE='awesome-fontconfig'
+POWERLEVEL9K_MODE="awesome-fontconfig"
 POWERLEVEL9K_DISABLE_RPROMPT=true
 POWERLEVEL9K_SHORTEN_DIR_LENGTH=1
 POWERLEVEL9K_SHORTEN_DELIMITER=""

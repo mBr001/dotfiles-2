@@ -1,15 +1,18 @@
 {
-    "[markdown]": {
-        "files.trimTrailingWhitespace": false
-    },
-    "editor.fontFamily": "Fira Code",
-    "editor.fontLigatures": true,
-    "editor.fontSize": 15,
-    "files.insertFinalNewline": true,
-    "files.trimTrailingWhitespace": true,
-    "terminal.integrated.fontSize": 13,
-    "workbench.colorTheme": "One Monokai",
-    "workbench.iconTheme": "material-icon-theme",
-    "workbench.startupEditor": "newUntitledFile",
-    "window.zoomLevel": 0
+	"[markdown]": {
+		"files.trimTrailingWhitespace": false
+	},
+	"editor.cursorBlinking": "phase",
+	"editor.fontFamily": "Fira Code",
+	"editor.fontLigatures": true,
+	"editor.fontSize": 15,
+	"editor.minimap.enabled": false,
+	"explorer.sortOrder": "type",
+	"files.insertFinalNewline": true,
+	"files.trimTrailingWhitespace": true,
+	"terminal.integrated.fontSize": 13,
+	"window.zoomLevel": 0,
+	"workbench.colorTheme": "One Monokai",
+	"workbench.iconTheme": "material-icon-theme",
+	"workbench.startupEditor": "newUntitledFile"
 }
